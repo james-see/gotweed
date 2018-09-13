@@ -1,4 +1,5 @@
 # gotweed
+<<<<<<< HEAD
 
 
 
@@ -27,3 +28,6 @@ $ go get -d github.com/jamesacampbell/gotweed
 ## Author
 
 [jamesacampbell](https://github.com/jamesacampbell)
+=======
+Go Tweed is a twitter client with a very lightweight database infrastructure to store and search for content locally later
+>>>>>>> 995d0ea677e0db56ad646d3e46693a1623651b9e
